@@ -1,0 +1,41 @@
+body {
+    background-color: #D5E1EF;
+}
+
+#card {
+    width: 280px;
+    height: 450px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 12px;
+    font-family: "Outfit", sans-serif;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
+
+#qr-img {
+    width: 280px;
+    border-radius: 10px;
+}
+
+#card h1 {
+    font-size: 22px;
+    font-weight: 700;
+    color: #1F314F;
+}
+
+#card p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #68778D;
+}
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
