@@ -1,5 +1,11 @@
-body {
+html, body {
     background-color: #D5E1EF;
+    margin: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 #card {
